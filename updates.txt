@@ -1,0 +1,3 @@
+18/2/2020
+    - Moved all previous repositories from my git to one repository
+    - Added logistic regression and analysis on the titanic dataset
